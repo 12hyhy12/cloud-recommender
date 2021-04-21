@@ -1,4 +1,4 @@
-# cloud-recommender
+# 科技资源及服务资源评估及管理构件 cloud-recommender
 * 2017YFB1400804 <br>
 A simple recommender system of  AWS cloud configuration for Spark and Hadoop applications <br>
 这是个为Spark和Hadoop应用推荐亚马逊云服务器配置的系统。该系统可以从18种亚马逊云主机种为32种应用推荐最佳机型。<br>
