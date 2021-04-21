@@ -1,6 +1,7 @@
 # 科技资源及服务资源评估及管理构件 cloud-recommender
 * 2017YFB1400804 <br>
 A simple recommender system of  AWS cloud configuration for Spark and Hadoop applications <br>
+面向科技资源及服务中的大数据、机器学习服务的资源使用问题，输入特定的负载的主机类型，能通过决策树方法给出对应主机类型的最优资源分配，克服传统人工指定资源导致科技资源及服务运行时间过长，资源效率过低，运行成本过高等问题。
 这是个为Spark和Hadoop应用推荐亚马逊云服务器配置的系统。该系统可以从18种亚马逊云主机种为32种应用推荐最佳机型。<br>
 
 ## 技术架构 <br>
